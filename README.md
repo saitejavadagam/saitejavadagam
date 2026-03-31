@@ -1,16 +1,20 @@
-## Hi there 👋
+# Sai Teja Vadagam
 
-<!--
-**saitejavadagam/saitejavadagam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Computer Science graduate focused on Java, Spring Boot, React, and full-stack development.
 
-Here are some ideas to get you started:
+- Solved 1000+ LeetCode problems
+- CGPA: 8.94
+- Interested in Backend and Full-Stack Software Engineering roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Java • Spring Boot • React • MySQL • REST APIs • Hibernate • Git • Docker
+
+## Featured Projects
+- E-Commerce Web Application
+- Task Management API
+- Upcoming: Job Portal System
+
+## Profiles
+- LinkedIn: https://linkedin.com/in/sai-teja-vadagam
+- LeetCode: add-your-link
+- Resume: add-your-drive-link
