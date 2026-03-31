@@ -1,18 +1,19 @@
-# Sai Teja Vadagam
+# Hi, I'm Sai Teja Vadagam
 
-B.Tech Computer Science graduate focused on Java, Spring Boot, React, and full-stack development.
+Frontend / Full Stack Developer focused on React, JavaScript, and Spring Boot.
 
-- Solved 1300+ LeetCode problems
-- CGPA: 8.94
-- Interested in Backend and Full-Stack Software Engineering roles
+- Building: scalable React apps and Java backend integrations
+- Currently learning: TypeScript, Next.js, System Design
+- Open to: internships, freelance, open-source collaboration
 
 ## Tech Stack
-Java • Spring Boot • React • MySQL • REST APIs • Hibernate • Git • Docker
+React • JavaScript • Spring Boot • HTML • CSS • Git
 
 ## Featured Projects
-- E-Commerce Web Application
-- Task Management API
-
+- ShopEase – React + Spring Boot ecommerce app
+- React GSAP Website – animated frontend experience
+- Weather App – live weather dashboard
+  
 ## Profiles
 - LinkedIn: https://linkedin.com/in/sai-teja-vadagam
 - LeetCode: https://leetcode.com/u/saitejavadagam
