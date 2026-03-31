@@ -59,7 +59,7 @@
 |--------|-------------|------|------|
 | **ShopEase** | Full-stack ecommerce app with cart, auth & product management | React, Spring Boot, Java | [🔗 Live](https://shopease-react.vercel.app) |
 | **React GSAP Website** | Animated frontend experience with smooth scroll & transitions | React, GSAP | — |
-| **Weather App** | Live weather dashboard with real-time API data | React, OpenWeather API | — |
+| **Weather App** | Live weather dashboard with real-time API data | React, OpenWeather API | [🔗 Live](https://weather-orcin-gamma.vercel.app/) |
 
 ---
 
