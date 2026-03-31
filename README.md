@@ -2,7 +2,7 @@
 
 B.Tech Computer Science graduate focused on Java, Spring Boot, React, and full-stack development.
 
-- Solved 1000+ LeetCode problems
+- Solved 1300+ LeetCode problems
 - CGPA: 8.94
 - Interested in Backend and Full-Stack Software Engineering roles
 
@@ -12,9 +12,7 @@ Java • Spring Boot • React • MySQL • REST APIs • Hibernate • Git •
 ## Featured Projects
 - E-Commerce Web Application
 - Task Management API
-- Upcoming: Job Portal System
 
 ## Profiles
 - LinkedIn: https://linkedin.com/in/sai-teja-vadagam
-- LeetCode: add-your-link
-- Resume: add-your-drive-link
+- LeetCode: https://leetcode.com/u/saitejavadagam
