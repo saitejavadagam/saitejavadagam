@@ -1,5 +1,7 @@
 # Hi, I'm Sai Teja Vadagam
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 Frontend / Full Stack Developer focused on React, JavaScript, and Spring Boot.
 
 - Building: scalable React apps and Java backend integrations
